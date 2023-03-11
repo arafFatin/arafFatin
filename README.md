@@ -4,7 +4,7 @@
 # Hi I'm Abu Fatin.👋
 
 ### I am a Software Engineering student at Aptech.
-### Also a Software Engineering student under ALX.
+### Also a Software Engineering student under ALX organization.
 
 - #### I'm currently working on my coding skills
 
