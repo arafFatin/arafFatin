@@ -4,9 +4,9 @@
 # Hi I'm Abu Fatin.👋
 
 ### I am a Software Engineering student at Aptech.
+### Also a Software Engineering student under ALX.
 
 - #### I'm currently working on my coding skills
-- #### Personally my favorite programming languages are "Java" and "C"
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/fatin-abu-a809b3255)
